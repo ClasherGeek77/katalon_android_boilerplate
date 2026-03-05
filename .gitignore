@@ -1,16 +1,34 @@
-.gradle
+# Katalon Studio
+/bin/
+/Libs/
+/Reports/
+/output/
+/build/
+/.settings/
+/.classpath
+/.project
+/.cache/
+/settings/internal/
+console.properties
+*.log
 
-bin
+# Mobile Specific
+*.apk
+*.ipa
+*.app
+appium.log
 
-Reports
+# Reports
+*.pdf
+*.html
 
-Libs
+# Gradle
+.gradle/
 
-output
+# IDEs
+.idea/
+.vscode/
 
-!output/.gitkeep
-build
-
-.classpath
-
-.project
+# OS
+.DS_Store
+Thumbs.db
