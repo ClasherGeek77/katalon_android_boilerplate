@@ -1,4 +1,4 @@
-# UNI Katalon Mobile Automation Framework 📱
+# Katalon Mobile Automation Framework 📱
 A complete demonstration of Mobile Test Automation (Android) using **Katalon Studio** and **Appium**. This repository acts as a blueprint for implementing scalable mobile testing architectures.
 
 ## 🎯 Objective
