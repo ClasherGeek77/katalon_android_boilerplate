@@ -1,8 +1,4 @@
-# Mobile-Katalon-Example-Project 📱
-
-[![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-Mobile%20Automation-success?logo=katalon)](https://katalon.com/)
-[![Appium](https://img.shields.io/badge/Appium-Integration-blue?logo=appium)](https://appium.io/)
-
+# UNI Katalon Mobile Automation Framework 📱
 A complete demonstration of Mobile Test Automation (Android) using **Katalon Studio** and **Appium**. This repository acts as a blueprint for implementing scalable mobile testing architectures.
 
 ## 🎯 Objective
