@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>and-003-empty-username-is-refused</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09b1d07-c2db-4949-9012-25542f229475</testCaseGuid>
+</TestCaseEntity>

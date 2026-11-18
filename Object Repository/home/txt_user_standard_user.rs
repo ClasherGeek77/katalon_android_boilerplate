@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>txt_user_standard_user</name>
+   <tag></tag>
+   <elementGuidId>b389be72-0fb9-4c80-b3a1-40fc239d7096</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@content-desc='standard_user']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@content-desc='standard_user']</value>
+      <webElementGuid>95c1387c-cafc-4e65-a511-9db1b8b19ea4</webElementGuid>
+   </webElementProperties>
+   <locator>//*[@content-desc='standard_user']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

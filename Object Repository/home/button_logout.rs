@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>button_logout</name>
+   <tag></tag>
+   <elementGuidId>4f2de2ac-9f0c-4fa6-8741-eaf68b13a0f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@content-desc='Logout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@content-desc='Logout']</value>
+      <webElementGuid>f96b0b34-89dc-41b5-9363-6f579737d4fd</webElementGuid>
+   </webElementProperties>
+   <locator>//*[@content-desc='Logout']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

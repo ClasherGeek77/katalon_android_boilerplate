@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>input_password</name>
+   <tag></tag>
+   <elementGuidId>97ad9efb-cc74-4640-b1f4-85fe4623f6b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.EditText)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.EditText)[2]</value>
+      <webElementGuid>81000c9a-577b-43da-9bcc-8f782d92158d</webElementGuid>
+   </webElementProperties>
+   <locator>(//android.widget.EditText)[2]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>
